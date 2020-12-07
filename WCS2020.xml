@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsWCSConnections version="1.0">
+    <wcs password="" name="DHM, Kortforsyningen SDFE" url="http://kortforsyningen.kms.dk/dhm?client=QGIS&amp;VERSION=2.0.0&amp;login=qgisdk&amp;password=qgisdk" username=""/>
+</qgsWCSConnections>
